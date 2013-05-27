@@ -617,8 +617,8 @@
 	<message key="xmlui.Submission.submit.DescribeStep.year">Anno</message>
 	<message key="xmlui.Submission.submit.DescribeStep.month">Mese</message>
 	<message key="xmlui.Submission.submit.DescribeStep.day">Giorno</message>
-	<message key="xmlui.Submission.submit.DescribeStep.series_name">Nome Serie</message>
-	<message key="xmlui.Submission.submit.DescribeStep.report_no">Numero del report o paper.</message>
+	<message key="xmlui.Submission.submit.DescribeStep.series_name">Numero volume</message>
+	<message key="xmlui.Submission.submit.DescribeStep.report_no">Numero del fascicolo</message>
 
 	<!-- org.dspace.app.xmlui.Submission.submit.UploadStep -->
 	<message key="xmlui.Submission.submit.UploadStep.head">Carica File</message>
